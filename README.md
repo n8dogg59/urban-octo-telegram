@@ -19,4 +19,4 @@ https://github.com/n8dogg59/urban-octo-telegram
 https://n8dogg59.github.io/urban-octo-telegram/develop/
 
 ## Screenshot
-![deployed urban-octo-telegram webpage](./assets/screenshot/screenshot1.jpg)
+![deployed urban-octo-telegram webpage](./develop/assets/screenshot/screenshot1.jpg)
