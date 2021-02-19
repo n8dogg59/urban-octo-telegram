@@ -1,8 +1,22 @@
-# Code Refactor Starter Code
-This challenge was designed to get us familiar with what you would maybe call best practices in how code should be arranged, structured, function, and meet accesability standards. The bullet points below show what the different tasks we needed to perform to make that happen.
-    - Add semantic elements to the html to give a better description than having div elements everywhere.
-    - Make sure the code structure is logical.
-    - Add alt attributes to images to meet accesability standards.
-    - Make sure heading attributes are in sequential order.
-    - Make the css more efficient by conolidating the classes, selectors and properties.
-    - Add comments so the code is easier to understand and modify if needed at a later date.
+# Refractor Starter Code
+
+## Purpose
+Take the existing code and refractor the code to meet accessibility and industry standards.
+
+## Acceptance Criteria
+* Make sure the source code has semantic elements
+* The elements should follow a logical structure independent of styling and positioning.
+* The image elements should all have accessible alt attributes.
+* The heading elements should all fall in sequential order.
+* The title element should have a concise and descriptive title.
+* Make the css more efficient by consolidating the classes, selectors and properties.
+* Add comments so the code is easier to understand and modify if needed at a later date.
+
+## Github Repository
+https://github.com/n8dogg59/urban-octo-telegram
+
+## Website
+https://n8dogg59.github.io/urban-octo-telegram/develop/
+
+## Screenshot
+![deployed urban-octo-telegram webpage](./assets/screenshot/screenshot1.jpg)
